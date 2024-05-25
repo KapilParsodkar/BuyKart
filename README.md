@@ -1,3 +1,9 @@
+ecommerce website using Next.js with responsive design elements from Tailwind CSS.
+
+Integrated user authentication with NextAuth and managed database operations with Drizzle.
+
+Validated data integrity and security with server-side validation using Zod.
+
 ## Getting Started
 
 First, run the development server:
